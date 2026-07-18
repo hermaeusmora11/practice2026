@@ -1,0 +1,61 @@
+cat > .gitignore << 'EOF'
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.vspscc
+*.vssscc
+*.sln.docstates
+*.cache
+*.pidb
+*.log
+*.tlb
+*.tlh
+*.tmp
+*.pidb
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.tmp
+*.tmp_proj
+*.publishsettings
+*.pubxml
+*.pfx
+*.p7s
+# Visual Studio
+.vs/
+*.swp
+*.swo
+*~
+# JetBrains Rider
+.idea/
+*.iml
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+*.TestResults.xml
+# Node (если вдруг)
+node_modules/
+EOF
