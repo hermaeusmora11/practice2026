@@ -97,3 +97,4 @@
 /home/vboxuser/practice2026/task01tests/obj/Debug/net10.0/task01tests.pdb
 /home/vboxuser/practice2026/task01tests/obj/Debug/net10.0/task01tests.genruntimeconfig.cache
 /home/vboxuser/practice2026/task01tests/obj/Debug/net10.0/ref/task01tests.dll
+/home/vboxuser/practice2026/task01tests/obj/Debug/net10.0/task01tests.sourcelink.json
