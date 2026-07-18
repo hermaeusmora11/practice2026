@@ -1,0 +1,11 @@
+/home/vboxuser/practice2026/task01/bin/Debug/net10.0/task01.deps.json
+/home/vboxuser/practice2026/task01/bin/Debug/net10.0/task01.dll
+/home/vboxuser/practice2026/task01/bin/Debug/net10.0/task01.pdb
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.GeneratedMSBuildEditorConfig.editorconfig
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.AssemblyInfoInputs.cache
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.AssemblyInfo.cs
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.csproj.CoreCompileInputs.cache
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.dll
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/refint/task01.dll
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/task01.pdb
+/home/vboxuser/practice2026/task01/obj/Debug/net10.0/ref/task01.dll
